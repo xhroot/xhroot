@@ -19,6 +19,7 @@ I'm a software engineer who enjoys working on interesting problems.
 * **Flutter**. One of the strongest contenders in the unified mobile space.  This appears to be a practical way forward to support many devices affordably. Many applications do not need native performance.  I'm still interested in Swift and Kotlin, though.
 * **Typescript**. Bringing stronger typing to Javascript seems like a good thing.
 * **Ruby + Rails**. I'm late to this game. I've had a "static-only" bias early in my career, working primarily on enterprisey software, but lately I've come around to favoring the fast iteration cycle of dynamically-typed languages.
+* **Containerization**. The idea of scripting, automating, and encapsulating an environment ensures a uniform environment across machines and time. Docker is but one implementation. VS Code's Docker integration is the future.
 
 #### Headings I've ended a prepostion with
 
