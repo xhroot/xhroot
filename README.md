@@ -8,18 +8,16 @@ I'm a software engineer who enjoys working on interesting problems.
 
 #### Technology I'm comfortable with
 
-* Java, C#
+* Kotlin, Java, C#, Python
 * SQL
-* Javascript, ES6, React
+* Typescript, ES6, React
 * Go golang
 * N-tier architectures, AWS
 
 #### Technology I'm interested in
 
 * **Rust**. Gaining momentum, very versatile.  Used in [Firecracker](https://github.com/firecracker-microvm/firecracker), blockchain (SOL, DOT, ETH), [Nitro](https://aws.amazon.com/ec2/nitro/), embedded (ESP32/STM32).  It might even have space to challenge Java in the enterprise software market.
-* **Typescript**. Bringing stronger typing to Javascript seems like a good thing.
-* **Flutter/Dart**. One of the strongest contenders in the unified mobile space.  This appears to be a practical way forward to support many devices affordably. Many applications do not need native performance.  I'm still interested in Swift and Kotlin, though.
-* **Containerization**. The idea of scripting, automating, and encapsulating an environment ensures a uniform environment across machines and time. Docker is but one implementation. VS Code's Docker integration is the future.
+* **AI**. AI application can be both broad and deep. It's a super exciting field right now.
 
 #### Headings I've ended a prepostion with
 
